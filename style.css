@@ -23,16 +23,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-  .whatsapp-container i {
+}
+.whatsapp-container i {
     font-size: 1.8em;
     color: white;
     /* padding: 15px; */
-  }
-  .crocs{
+}
+.crocs{
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 30px;
-  }
+}
+/* .row img{
+    width: 20rem;
+
+} */
 
