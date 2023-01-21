@@ -49,6 +49,14 @@
     font-family: 'Vollkorn', serif;
 
 }
+.home button{
+    border: none;
+}
+.home button:hover{
+    color: white;
+    font-size: 15px;
+
+}
 @media(max-width: 567px){
     .crocs{
         display: flex;
